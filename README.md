@@ -1,2 +1,2 @@
-# cloud-computing-course
-Repository for course activities, notes, and projects in Cloud Computing.
+BSIT - 4H
+Jenkielyn Torres
